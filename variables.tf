@@ -2,9 +2,6 @@
 # VARIABLES
 ##################################################################################
 
-# dqphXORcqkS7pw.atlasv1.78lUI2KktKlaGi2lECQ4BBN9zIrTV6NGZ2Zq8ygm66qcbbH61Bcd12SO7I4SoRJcZqo
-# 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
-
 variable "region" {
   type        = string
   description = "(Optional) AWS Region to use. Default: us-east-1"
